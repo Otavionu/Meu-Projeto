@@ -24,5 +24,8 @@ O dashboard permite:
 ## Fluxo de Transformação dos Dados
 
 <p align="center">
-  <img width="2385" height="1941" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/f316b80f-6f3e-450b-a86a-c6160a41520b" />
+  <img width="2385" height="1941" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/38c473ba-4a31-4394-829a-96c229c0152a" />
 </p>
+
+
+
